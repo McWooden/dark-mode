@@ -1,2 +1,2 @@
 # dark-mode
-dark mode untuk smp saya
+dark mode untuk smp saya :D
